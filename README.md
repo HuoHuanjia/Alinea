@@ -10,6 +10,8 @@ npm i
 
 run the api: node index.js
 
+deploy : smartcontract.sol
+
 can use smartcontract address: 0x62B34fDEa06121d537E02de1E871CBFf0124F790
 
 RPC: rpc.testnet.moonbeam.network
@@ -29,6 +31,8 @@ correr apiSC:
 npm i
 
 correr el api: node index.js
+
+desplegar smartcontract
 
 smartcontract address: 0x62B34fDEa06121d537E02de1E871CBFf0124F790
 
